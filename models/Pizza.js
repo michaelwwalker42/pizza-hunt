@@ -30,7 +30,9 @@ const PizzaSchema = new Schema(
   },
   {
     toJSON: {
+      //virtuals help extend models by creating a "virtual" field that can be evaluated when the documents are retrieved from the database.
       virtuals: true,
+      // In programming, a getter is typically a special type of function that takes the stored data you are looking to retrieve and modifies or formats it upon return. Think of it like middleware for your data!
       getters: true
     },
     // We set id to false because this is a virtual that Mongoose returns, and we don’t need it.
