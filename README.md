@@ -2,7 +2,8 @@
   ![license](https://img.shields.io/badge/license-MIT-orange.svg)
 
   ## Description
-  An application for a fictional company called Pizza Hunt, part of a coding bootcamp module, to help learn how to use MongoDB. 
+  An application for a fictional company called Pizza Hunt, part of a coding bootcamp module, to help learn how to use MongoDB.   
+  [Go to app](https://secret-dawn-34872.herokuapp.com/)
 
   ## License
   MIT License
